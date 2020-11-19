@@ -6,3 +6,33 @@ body{
 .navbar-toggler:focus{
     outline: none;
 }
+
+#hero{
+    
+    width: 100%;
+    height: 500px;
+    padding-left: 1rem;
+    background-image: url('../images/wp2701655-electronic-wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    
+    
+}
+
+#hero h1{
+
+    padding-top : 100px;
+    color: goldenrod;
+    text-align: center;
+    -ms-text-size-adjust: auto;
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 80px;
+}
+
+#espacio{
+
+    height: 100px;
+}
+
+
